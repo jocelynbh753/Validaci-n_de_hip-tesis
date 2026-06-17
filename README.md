@@ -1,4 +1,5 @@
 📊 Análisis del Experimento A/B en Landing Page
+
 📌 Descripción del proyecto
 Este proyecto analiza un experimento A/B realizado en la página de inicio de un ecommerce, comparando dos versiones (A y B) para determinar cuál genera mejor desempeño en conversión y valor económico. El análisis incluye validación de datos, pruebas estadísticas y conclusiones orientadas al negocio.
 
