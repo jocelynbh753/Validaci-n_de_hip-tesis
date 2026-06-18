@@ -20,6 +20,7 @@ Con el fin de recomendar la versión de landing page que maximiza el impacto en 
 El análisis sigue una secuencia lógica:
 
 1. Exploración y validación de datos
+   
 Revisión de estructura, tipos de datos y valores faltantes
 
 Análisis de variables categóricas y numéricas
@@ -27,6 +28,7 @@ Análisis de variables categóricas y numéricas
 Validación de consistencia del experimento
 
 2. Comparación del gasto promedio (A vs B)
+   
 Filtrado de usuarios convertidos
 
 Prueba de Levene para evaluar homogeneidad de varianzas
@@ -36,6 +38,7 @@ t-test (o Welch) para comparar medias
 Interpretación estadística y de negocio
 
 3. Comparación de la tasa de conversión (A vs B)
+   
 Cálculo de conversiones por grupo
 
 z-test de proporciones
@@ -43,6 +46,7 @@ z-test de proporciones
 Evaluación de significancia y conclusiones
 
 4. Relación entre fuente de tráfico y conversión
+   
 Tabla de contingencia
 
 Prueba Chi-cuadrado
@@ -50,40 +54,50 @@ Prueba Chi-cuadrado
 Identificación de canales con mayor impacto
 
 5. Relación entre tipo de usuario y conversión
+   
 Análisis de comportamiento entre usuarios nuevos y recurrentes
 
 Evaluación de diferencias significativas
 
 📈 Resultados principales
+
 ✔️ Gasto promedio
-Existe una diferencia estadísticamente significativa entre el gasto promedio de las versiones A y B.
-El valor p < 0.05 indica que la diferencia no es producto del azar.
+
+-Existe una diferencia estadísticamente significativa entre el gasto promedio de las versiones A y B.
+
+-El valor p < 0.05 indica que la diferencia no es producto del azar.
 
 ✔️ Tasa de conversión
-La tasa de conversión entre A y B también muestra diferencias significativas.
-La versión de landing influye directamente en cuántos usuarios se convierten.
+
+-La tasa de conversión entre A y B también muestra diferencias significativas.
+
+-La versión de landing influye directamente en cuántos usuarios se convierten.
 
 ✔️ Fuente de tráfico
-La fuente de tráfico está asociada a la conversión (p < 0.05).
-Algunos canales convierten mejor que otros.
+
+-La fuente de tráfico está asociada a la conversión (p < 0.05).
+
+-Algunos canales convierten mejor que otros.
 
 ✔️ Tipo de usuario
-Los usuarios recurrentes y nuevos presentan comportamientos distintos en conversión y gasto.
+
+-Los usuarios recurrentes y nuevos presentan comportamientos distintos en conversión y gasto.
 
 🧠 Conclusiones y recomendación
-El experimento demuestra que las versiones A y B no son equivalentes:
 
-Cambian tanto la tasa de conversión como el gasto promedio.
+-El experimento demuestra que las versiones A y B no son equivalentes:
 
-La elección de landing page impacta directamente en el valor generado por usuario.
+-Cambian tanto la tasa de conversión como el gasto promedio.
 
-La recomendación final debe considerar qué métrica es prioritaria para el negocio:
+-La elección de landing page impacta directamente en el valor generado por usuario.
 
-Maximizar conversiones
+-La recomendación final debe considerar qué métrica es prioritaria para el negocio:
 
-Maximizar ingreso por usuario
+-Maximizar conversiones
 
-Optimizar por canal o tipo de usuario
+-Maximizar ingreso por usuario
+
+-Optimizar por canal o tipo de usuario
 
 🛠️ Tecnologías utilizadas
 
