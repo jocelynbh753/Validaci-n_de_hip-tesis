@@ -73,6 +73,8 @@ Evaluación de diferencias significativas
 
 -La versión de landing influye directamente en cuántos usuarios se convierten.
 
+<img width="587" height="485" alt="image" src="https://github.com/user-attachments/assets/c3953572-3e9e-40ba-b3be-8b27bac9dc39" />
+
 ✔️ Fuente de tráfico
 
 -La fuente de tráfico está asociada a la conversión (p < 0.05).
@@ -84,6 +86,9 @@ Evaluación de diferencias significativas
 ✔️ Tipo de usuario
 
 -Los usuarios recurrentes y nuevos presentan comportamientos distintos en conversión y gasto.
+
+<img width="573" height="437" alt="image" src="https://github.com/user-attachments/assets/b047d759-88b3-44f1-90d5-40438deedc5a" />
+
 
 🧠 Conclusiones y recomendación
 
