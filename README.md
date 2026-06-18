@@ -86,11 +86,12 @@ Maximizar ingreso por usuario
 Optimizar por canal o tipo de usuario
 
 🛠️ Tecnologías utilizadas
-Python
 
-Pandas
+-Python
 
-NumPy
+-Pandas
+
+-NumPy
 
 Matplotlib / Seaborn
 
