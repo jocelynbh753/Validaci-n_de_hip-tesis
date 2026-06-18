@@ -79,6 +79,8 @@ Evaluación de diferencias significativas
 
 -Algunos canales convierten mejor que otros.
 
+<img width="592" height="445" alt="image" src="https://github.com/user-attachments/assets/9af172ff-18ac-4c63-a55c-1bd1d073d902" />
+
 ✔️ Tipo de usuario
 
 -Los usuarios recurrentes y nuevos presentan comportamientos distintos en conversión y gasto.
